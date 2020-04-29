@@ -1,4 +1,4 @@
-# Map-Masters-C-Project
+# Map-Masters C++ Project
 
 1) C++ console application that calculates and displays the distance between two points on a map.  Prompt the user for four integer coordinates:x1y1x2y2Calculate the distance in kilometers from (x1, y1) to (x2, y2). Use function sqrt(<value>) to calculate the square root of <value>.  Use formatted output manipulators (setw, left/right) to print the following five rows:
   ● x1
