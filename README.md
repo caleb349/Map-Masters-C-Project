@@ -1,6 +1,6 @@
 # Map-Masters-C-Project
 
-1) C++ console application that calculates and displays the distance between two points on a map.  Prompt the user for four integer coordinates:x1y1x2y2Calculate the distance in kilometers from (x1, y1) to (x2, y2).  See www.mathsisfun.com/algebra/distance-2-points.html for background information.  Use function sqrt(<value>) to calculate the square root of <value>.  Use formatted output manipulators (setw, left/right) to print the following five rows:
+1) C++ console application that calculates and displays the distance between two points on a map.  Prompt the user for four integer coordinates:x1y1x2y2Calculate the distance in kilometers from (x1, y1) to (x2, y2). Use function sqrt(<value>) to calculate the square root of <value>.  Use formatted output manipulators (setw, left/right) to print the following five rows:
   ● x1
   ● y1
   ● x2
@@ -19,7 +19,7 @@
   ● A left-justified label.
   ● A right-justified value.Define constants for the column widths.  Format all real numbers to three decimal places. 
   
-3) C++ console application that calculates and displays the Celsius equivalent of a Fahrenheit temperature.  Prompt the user for a temperature in Fahrenheit, convert it to Celsius and show both values.  See https://www.albireo.ch/temperatureconverter/formula.html for background information.  Use formatted output manipulators (setw, left/right) to print the following two rows:
+3) C++ console application that calculates and displays the Celsius equivalent of a Fahrenheit temperature.  Prompt the user for a temperature in Fahrenheit, convert it to Celsius and show both values. Use formatted output manipulators (setw, left/right) to print the following two rows:
 ● Fahrenheit temperature
 ● Celsius temperatureAnd three columns:
 ● A left-justified label
