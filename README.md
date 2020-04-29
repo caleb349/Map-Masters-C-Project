@@ -19,7 +19,7 @@
   ● A left-justified label.
   ● A right-justified value.Define constants for the column widths.  Format all real numbers to three decimal places. 
   
-3)C++ console application that calculates and displays the Celsius equivalent of a Fahrenheit temperature.  Prompt the user for a temperature in Fahrenheit, convert it to Celsius and show both values.  See https://www.albireo.ch/temperatureconverter/formula.html for background information.  Use formatted output manipulators (setw, left/right) to print the following two rows:
+3) C++ console application that calculates and displays the Celsius equivalent of a Fahrenheit temperature.  Prompt the user for a temperature in Fahrenheit, convert it to Celsius and show both values.  See https://www.albireo.ch/temperatureconverter/formula.html for background information.  Use formatted output manipulators (setw, left/right) to print the following two rows:
 ● Fahrenheit temperature
 ● Celsius temperatureAnd three columns:
 ● A left-justified label
